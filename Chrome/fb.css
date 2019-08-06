@@ -1,4 +1,5 @@
 [dir="rtl"],
-.direction_rtl {
+.direction_rtl,
+.userContent {
     font-family: "tahoma" !important;
 }
